@@ -1,0 +1,36 @@
+#callToActionBox{
+	padding: 10px 10px 10px 10px
+}
+
+#callToActionHeadline{
+	font-size:36px;
+	text-align:center;
+}
+
+#callToActionMessage{
+}
+
+#callToActionImage{
+	margin:0 auto;
+}
+
+#callToActionImage img{
+	display: inline-block;
+}
+
+#callToActionButton{
+	text-align: center;
+}
+
+#callToActionButton .btn {
+  background: #8a8a8a;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
