@@ -15,6 +15,10 @@ An easy way to add call to action boxes to your Wordpress site.
 
 An easy way to add call to action to your Wordpress site.
 
+###Quick Start Guide
+
+* [Call To Action quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/call-to-action-box-plugin/)
+
 ###What you get when you use the Call To Action Box plugin
 
 *  Place a call to action with a simple shortcode [cta_box id="%postId%"]
@@ -31,13 +35,14 @@ Whether you are writing a post about your company or another company, you can in
 
 ###Quick Start Guide
 
-* [Call To Action quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/call-to-action-box-plugin/)
+* [Call To Action quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/call-to-action-box-plugin/)
 
 ###Unlimited Call To Action Boxes
 
 Add as many call to action boxes to your site as you like.  The Call To Action Box plugin lets you create calls to action and save them for when ever you are ready to use them.
 
-
+###Call To Action Use Cases
+* Place a call to action in the middle of a post to get your readers to take action while they are deep in your content
 
 == Installation ==
 
